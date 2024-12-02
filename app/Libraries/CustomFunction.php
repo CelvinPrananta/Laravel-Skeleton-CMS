@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\DB;
 
 if (!function_exists('lang')) {
     /**
-     * @author Vicky Budiman vickzkater@gmail.com
+     * @author Celvin Prananta kelvin.p2504@gmail.com
      * 
      * this function need data $translation from `app/Http/Controllers/Controller.php`
      * for set the translation phrase
@@ -69,7 +69,7 @@ if (!function_exists('lang')) {
 
 if (!function_exists('set_input_form')) {
     /**
-     * @author Vicky Budiman vickzkater@gmail.com
+     * @author Celvin Prananta kelvin.p2504@gmail.com
      * 
      * for generate input element form
      * 
@@ -293,7 +293,7 @@ if (!function_exists('set_input_form')) {
 
 if (!function_exists('set_input_form2')) {
     /**
-     * @author Vicky Budiman vickzkater@gmail.com
+     * @author Celvin Prananta kelvin.p2504@gmail.com
      * 
      * for generate input element form
      */

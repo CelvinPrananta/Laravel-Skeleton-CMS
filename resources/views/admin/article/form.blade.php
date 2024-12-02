@@ -193,7 +193,7 @@
     @include('_form_element.switchery.css')
     <!-- bootstrap-datetimepicker -->
     @include('_form_element.datetimepicker.css')
-    <!-- Page Builder by KINIDI Tech -->
+    <!-- Page Builder by Celvin Prananta -->
     @include('_form_element.pagebuilder.css')
 @endsection
 
@@ -206,7 +206,7 @@
     @include('_form_element.tagsinput.script')
     <!-- TinyMCE -->
     @include('_form_element.tinymce.script')
-    <!-- Page Builder by KINIDI Tech -->
+    <!-- Page Builder by Celvin Prananta -->
     @include('_form_element.pagebuilder.script')
 
     <script>

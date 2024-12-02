@@ -290,7 +290,7 @@ class AuthController extends Controller
             // *dumping $oAuth
             // {#448 ▼
             //   +"id": "17841401572570570"
-            //   +"username": "vickzkater"
+            //   +"username": "kelvin"
             //   +"account_type": "PERSONAL"
             // }
 

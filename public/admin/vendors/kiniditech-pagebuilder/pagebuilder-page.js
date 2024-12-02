@@ -2,9 +2,9 @@
  * PageBuilder - Landing Page (Build landing pages using content elements)
  * Version: 1.0.1 (2020-12-22)
  *
- * Copyright (c) KINIDI Tech and other contributors
+ * Copyright (c) Celvin Prananta and other contributors
  * Released under the MIT license.
- * For more information, see https://kiniditech.com/ or https://github.com/vickzkater
+  * For more information, see https://github.com/CelvinPrananta
  *
  * PageBuilder depends on several libraries, such as:
  * - jQuery (https://jquery.com/download/)

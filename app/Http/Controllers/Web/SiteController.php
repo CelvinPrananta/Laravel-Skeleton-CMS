@@ -114,7 +114,7 @@ class SiteController extends Controller
         // GENERATE QR CODE
         $qrcode_gen = new Generator;
         $qrcode = $qrcode_gen->size(200)
-            ->generate('https://github.com/vickzkater/lara-s-cms');
+            ->generate('https://github.com/CelvinPrananta/Laravel-Skeleton-CMS');
 
         return view('web.blog', compact('page_menu', 'data', 'topics', 'qrcode'));
     }
@@ -162,7 +162,7 @@ class SiteController extends Controller
 
         $qrcode_gen = new Generator;
         $qrcode_main = $qrcode_gen->size(200)
-            ->generate('https://github.com/vickzkater/lara-s-cms');
+            ->generate('https://github.com/CelvinPrananta/Laravel-Skeleton-CMS');
 
         return view('web.blog_details', compact('page_menu', 'data', 'topics', 'qrcode', 'qrcode_main'));
     }

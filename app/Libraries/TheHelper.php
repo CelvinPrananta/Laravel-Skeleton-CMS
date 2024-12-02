@@ -6,11 +6,10 @@ namespace App\Libraries;
  * The Helper PHP - a lot of PHP helper functions that are ready to help in your project
  * Version: 1.0.1 (2020-06-07)
  *
- * Copyright (c) KINIDI Tech and other contributors
+ * Copyright (c) Celvin Prananta and other contributors
  * Released under the MIT license.
- * For more information, see https://kiniditech.com/ or https://github.com/vickzkater
+   * For more information, see https://github.com/CelvinPrananta
  * 
- * https://github.com/vickzkater/the-helper-php
  */
 
 class TheHelper

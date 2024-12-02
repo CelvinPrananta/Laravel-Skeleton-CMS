@@ -2,11 +2,10 @@
  * The Helper JS - a lot of JS helper functions that are ready to help in your project
  * Version: 1.0 (2020-07-04)
  *
- * Copyright (c) KINIDI Tech and other contributors
+ * Copyright (c) Celvin Prananta and other contributors
  * Released under the MIT license.
- * For more information, see https://kiniditech.com/ or https://github.com/vickzkater
+ * For more information, see https://github.com/CelvinPrananta
  *
- * https://github.com/vickzkater/the-helper-js
  */
 
 /**

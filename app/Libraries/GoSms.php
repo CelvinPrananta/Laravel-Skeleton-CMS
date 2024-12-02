@@ -6,11 +6,10 @@ namespace App\Libraries;
  * GoSMSGateway API - Laravel Library
  * Worked on SMS API MODULE Version V.1.6
  *
- * Copyright (c) KINIDI Tech and other contributors
+ * Copyright (c) Celvin Prananta and other contributors
  * Released under the MIT license.
- * For more information, see https://kiniditech.com/ or https://github.com/vickzkater
+   * For more information, see https://github.com/CelvinPrananta
  *
- * https://github.com/vickzkater/gosms-laravel
  */
 
 use GuzzleHttp\Client;

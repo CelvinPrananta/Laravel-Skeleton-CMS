@@ -1,5 +1,3 @@
-<p align="center"><img src="https://hosting.kiniditech.com/kiniditech-pagebuilder.jpg" width="200" alt="KINDI Tech - PageBuilder"></p>
-
 # PageBuilder (Build pages using content elements)
 
 ## PageBuilder depends on several libraries, such as:
@@ -9,7 +7,7 @@
  - TinyMCE (https://www.tiny.cloud/get-tiny/downloads/)
  - Bootstrap (https://getbootstrap.com/docs/4.3/getting-started/download/)
 
-Developed by [KINIDI Tech](https://kiniditech.com/) ([@vickzkater](https://github.com/vickzkater/)) on June 2020
+Developed by [Celvin Prananta](#) ([@CelvinPrananta](https://github.com/CelvinPrananta)) on June 2020
 
 ## PageBuilder (Build pages using content elements)
  - Text (Rich Text Editor / WYSIWYG HTML Editor)
@@ -45,15 +43,15 @@ Thank you for considering contributing to the PageBuilder.
 
 ## Bugs, Improvements & Security Vulnerabilities
 
-If you discover a bug or security vulnerability within PageBuilder, please send an email to Vicky Budiman at [vicky@kiniditech.com](mailto:vicky@kiniditech.com). All requests will be addressed promptly.
+If you discover a bug or security vulnerability within PageBuilder, please send an email to Celvin Prananta at [kelvin.p2504@gmail.com](mailto:kelvin.p2504@gmail.com). All requests will be addressed promptly.
 
 ## Issues
 
-If you come across any issue/bug please [report them here](https://github.com/vickzkater/kiniditech-pagebuilder/issues).
+If you come across any issue/bug please [report them here](https://github.com/CelvinPrananta/Laravel-Skeleton-CMS/issues).
 
 ## License
 
-PageBuilder is open-sourced software built by KINIDI Tech and contributors and licensed under the [MIT license](http://opensource.org/licenses/MIT).
+PageBuilder is open-sourced software built by Celvin Prananta and contributors and licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Credits
 
@@ -63,5 +61,4 @@ PageBuilder is open-sourced software built by KINIDI Tech and contributors and l
  - Bootstrap (https://getbootstrap.com/docs/4.3/getting-started/download/)
 
 <p align="center">Brought to you by</p>
-<p align="center"><img src="https://hosting.kiniditech.com/kiniditech_logo.png" width="200" alt="KINDI Tech"></p>
-<p align="center">KINIDI Tech</p>
+<p align="center">Celvin Prananta</p>

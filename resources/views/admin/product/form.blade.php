@@ -41,7 +41,7 @@
                                 // set_input_form2($type, $input_name, $label_name, $data, $errors, $required = false, $config = null)
                                 $config = new \stdClass();
                                 $config->attributes = 'autocomplete="off"';
-                                $config->placeholder = lang("Sample: Men's Shoes (Product Category) + KINIDI (Brand) + Black Canvas (Info)", $translation);
+                                $config->placeholder = lang("Sample: Men's Shoes (Product Category) + A (Brand) + Black Canvas (Info)", $translation);
                                 echo set_input_form2('text', 'title', ucwords(lang('title', $translation)), $data, $errors, true, $config);
 
                                 $config = new \stdClass();
